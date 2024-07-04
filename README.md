@@ -52,4 +52,4 @@ This project successfully implemented a text classification solution for SMS spa
 ## MADE BY
 1.AMISHI BHAMRA
 
-2.KARANBIR PAHAWA
+2.KARANBIR SINGH PAHWA
